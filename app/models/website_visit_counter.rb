@@ -1,0 +1,2 @@
+class WebsiteVisitCounter < ApplicationRecord
+end
